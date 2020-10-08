@@ -1,0 +1,4 @@
+#Thu Oct 08 22:32:05 IST 2020
+base.0=/Users/apple/Downloads/AppinessAssignment-7640fc84ec1331fb4767c785bca0c00ca87a2837/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
